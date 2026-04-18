@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on any issues my expertise allows to aid in.
 - 📫 How to reach me: email me at irtazahyder2002@gmail.com
 
-Still getting the hang of this open source contribution thing 🫠.
-
 <details>
+
   <summary>Poem about Me</summary>
   
 ```
@@ -38,6 +37,32 @@ Still getting the hang of this open source contribution thing 🫠.
   The Benefactor and All-Knowing
   It is then that regrets bother one no more
 ```
+
+
+<details>
+  
+  <summary>YOU WILL BE QUESTIONED</summary>
+  
+```
+The killing of children
+The killing of women
+Your support to coorporations which funded the powerful
+YOUR MONEY FUNDED THE GENOCIDE
+
+The bombing of countries
+The abduction of people
+The torture of victims
+Your silence towards the oppressor gave them power 
+YOUR SILENCE PREVAILED THE GENOCIDE
+
+The annexation of country
+The threat of annihilation
+The hypocrisy of your rulers
+Your lack of reasoning allowed fools to take power
+YOUR ARROGANCE CAUSED THE GENOCIDE
+```
+</details>
+
 </details>
 <!---
 SyedMIrtazaHyder/SyedMIrtazaHyder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
